@@ -52,3 +52,5 @@
 | windows 10 家庭版 |       Microsoft Office 365       |     √      |
 |       ----        |              -----               |   待测试   |
 
+## 安装包下载
+* [安装包](https://github.com/oneflyingfish/PDF_Translator/releases)
